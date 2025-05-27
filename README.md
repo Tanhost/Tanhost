@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Tanhost
+- 👨‍🎓 Systems Analysis and Development at Jorge Amado University Center (UNIJORGE)
 - 👨‍💻 I’m interested in Back-end stack.
 - 🐍 I’m currently learning about Python anda Java.
 - 💬 I'm looking to collaborate with developers who are also starting out in the field.

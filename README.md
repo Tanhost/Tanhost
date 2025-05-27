@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about Python anda Java.
 - 💞️ I'm looking to collaborate with developers who are also starting out in the field.
 - 📫 How to reach me: https://www.linkedin.com/in/elnatalima/
+- Meu primeiro código HTML/CSS: https://zenith-harsh-effect.glitch.me/
 
 
 <!---

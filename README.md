@@ -4,7 +4,8 @@
 - 🐍 I’m currently learning about Python and Java.
 - 💬 I'm looking to collaborate with developers who are also starting out in the field.
 - 🌐 How to reach me: https://www.linkedin.com/in/elnatalima/
-- 💻 My first HTML/CSS code: https://zenith-harsh-effect.glitch.me/
+- 💻 My first training HTML/CSS code: https://zenith-harsh-effect.glitch.me/
+- 🤖💬 My first training Chatbot: https://bot.dialogflow.com/e4a6a979-c362-4b62-a036-758d16a66da9
 
 
 <!---

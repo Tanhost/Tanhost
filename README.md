@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanhost
 - 👨‍🎓 Systems Analysis and Development at Jorge Amado University Center (UNIJORGE)
 - 👨‍💻 I’m interested in Back-end stack.
-- 🐍 I’m currently learning about Python anda Java.
+- 🐍 I’m currently learning about Python and Java.
 - 💬 I'm looking to collaborate with developers who are also starting out in the field.
 - 🌐 How to reach me: https://www.linkedin.com/in/elnatalima/
 - 💻 My first HTML/CSS code: https://zenith-harsh-effect.glitch.me/

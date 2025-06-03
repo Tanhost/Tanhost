@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanhost
+- 👋 Hi, I’m Elnatã Lima
 - 👨‍🎓 Systems Analysis and Development at Jorge Amado University Center (UNIJORGE)
 - 👨‍💻 I’m interested in Back-end stack.
 - 🐍 I’m currently learning about Python and Java.

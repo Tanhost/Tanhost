@@ -5,7 +5,7 @@
 - 💬 I'm looking to collaborate with developers who are also starting out in the field.
 - 🌐 How to reach me: https://www.linkedin.com/in/elnatalima/
 - 💻 My first training HTML/CSS code: https://zenith-harsh-effect.glitch.me/
-- 💻 My first Web App: https://odc-trial-e2371-dev.outsystems.app/CustomerFeedback/Login
+- 💻 My first training Web App: https://odc-trial-e2371-dev.outsystems.app/CustomerFeedback/Login
 - 🤖💬 My first training Chatbot: https://bot.dialogflow.com/e4a6a979-c362-4b62-a036-758d16a66da9
 
 
